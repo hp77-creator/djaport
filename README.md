@@ -14,3 +14,8 @@ You can track test by simply adding the following annotation in your test file:
     )
 ```
 
+and run your test like:
+
+```shell
+python manage.py test --testrunner=djaport.runner.CustomTestRunner
+```
