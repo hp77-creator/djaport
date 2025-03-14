@@ -29,5 +29,6 @@ setup(
         "Topic :: Software Development :: Testing",
         "Topic :: Software Development :: Testing :: Unit",
     ],
+    license="MIT",
     keywords="django,testing,reports,html,test runner",
 )
